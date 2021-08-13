@@ -1,0 +1,75 @@
+{
+  "partyResorvations": [
+    {
+      "id": 1,
+      "parentName": "James",
+      "childName": "Billy",
+      "totalAttendies": 30,
+      "partyAddress": "100 North Avenue Clarksville Tn 37042",
+      "partyDate": "01/14/21",
+      "partyLength": 5
+    },
+    {
+      "parentName": "Josh",
+      "childName": "Parker",
+      "totalAttendies": 10,
+      "partyAddress": "990 Harding Dr",
+      "partyDate": "2021-08-12",
+      "partyLength": "4",
+      "id": 2
+    },
+    {
+      "parentName": "Jimmy",
+      "childName": "Lolla",
+      "totalAttendies": 10,
+      "partyAddress": "192 Oik Ln",
+      "partyDate": "2021-08-11",
+      "partyLength": "4",
+      "id": 3
+    },
+    {
+      "parentName": "Gus",
+      "childName": "Gustavamo",
+      "totalAttendies": "100",
+      "partyAddress": "990 Gus Ln",
+      "partyDate": "2021-08-25",
+      "partyLength": "24",
+      "id": 4
+    },
+    {
+      "parentName": "Jimbo",
+      "childName": "Bucktooth",
+      "totalAttendies": "3",
+      "partyAddress": "BackWoods Ave",
+      "partyDate": "2021-08-20",
+      "partyLength": "1",
+      "id": 5
+    }
+  ],
+  "completedPartys": [
+    {
+      "employeeId": 2,
+      "partyNumber": 5,
+      "date": "Aug 13 2021",
+      "id": 1
+    },
+    {
+      "employeeId": 2,
+      "partyNumber": 4,
+      "date": "Aug 13 2021",
+      "id": 2
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "Mike",
+      "lastName": "Loblonski"
+    },
+    {
+      "id": 2,
+      "firstName": "Leslie",
+      "lastName": "Ross"
+    }
+  ]
+}
